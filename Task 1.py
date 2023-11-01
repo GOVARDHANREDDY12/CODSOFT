@@ -34,12 +34,12 @@ lb = Listbox(
 lb.pack(side=LEFT, fill=BOTH)
 
 tablelist = [
-    'DSA File Work',
-    'Bike Servicing',
-    'Have to go for groceries',
-    'Graphics Lab chart paper',
-    'Reading novels last chapter',
-    'CSS and Javascript practice',
+    ' Work',
+    'Bike ',
+    ' groceries',
+    ' paper',
+    ' chapter',
+    ' practice',
 ]
 
 for item in tablelist:
